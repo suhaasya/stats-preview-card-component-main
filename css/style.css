@@ -236,8 +236,7 @@ body {
     background-color: hsl(244, 38%, 16%);
     padding: 75px 60px 60px 60px;
     width: 654px;
-    /* min-width: 300px; */
-
+    height: fit-content;
     font-weight: 700;
     border-radius: 0px 0 10px 10px;
     min-height: 480px;
