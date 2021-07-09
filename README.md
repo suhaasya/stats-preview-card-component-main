@@ -36,7 +36,7 @@ Mobile version
 ![mobile version](/screenshots/mobile-version.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://github.com/suhaasya/stats-preview-card-component-main)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
